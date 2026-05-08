@@ -1,4 +1,4 @@
-
+Bartender for macOS secure Workflow - scripting-support and hotkey-customization is the best Bartender for macOS workflow, featuring scripting-support and hotkey-customization.
 
 
 
